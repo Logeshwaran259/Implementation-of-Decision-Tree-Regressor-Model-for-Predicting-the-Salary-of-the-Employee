@@ -19,8 +19,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: 212220040040
-RegisterNumber: A.Harini Shamlin
+Developed by: 212220040081
+RegisterNumber: logeshwaran s
 ##program##
 import pandas as pd
 data=pd.read_csv("/content/Salary.csv")
